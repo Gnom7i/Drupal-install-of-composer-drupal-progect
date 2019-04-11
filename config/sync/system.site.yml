@@ -1,0 +1,14 @@
+uuid: c33f8d05-dbd4-4e9a-a73e-f6e948aab6c5
+name: 'Личный сайт Евгения Машкова'
+mail: mashkov.e.m@ya.ru
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: ru
+default_langcode: ru
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
